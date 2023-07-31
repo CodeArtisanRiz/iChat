@@ -21,7 +21,7 @@ You can check out the live demo of the iChat chatbot [here](https://techno3gamma
 1. Clone the repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/yourusername/iChat.git
+   git clone https://github.com/xtremist96/iChat.git
    ```
 
 2. Open the `brain.php` file in the project's root directory.
@@ -34,7 +34,7 @@ You can check out the live demo of the iChat chatbot [here](https://techno3gamma
 
 ## Give it a Star!
 
-If you find this project helpful or interesting, please consider giving it a star on GitHub by clicking [here](https://github.com/yourusername/iChat).
+If you find this project helpful or interesting, please consider giving it a star on GitHub by clicking [here](https://github.com/xtremist96/iChat).
 
 ## Contributing
 

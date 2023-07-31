@@ -1,7 +1,7 @@
 # iChat - Chatbot powered by BrainShop API
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/iChat.svg?style=social&label=Star&maxAge=2592000)](https://github.com/yourusername/iChat/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/iChat.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/yourusername/iChat/fork)
+[![GitHub stars](https://img.shields.io/github/stars/xtremist96/iChat.svg?style=social&label=Star&maxAge=2592000)](https://github.com/xtremist96/iChat/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/xtremist96/iChat.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/xtremist96/iChat/fork)
 
 iChat is a chatbot project that utilizes the BrainShop API to provide intelligent and interactive responses to users. The BrainShop API is an AI-driven platform that allows developers to create conversational agents with natural language processing capabilities.
 

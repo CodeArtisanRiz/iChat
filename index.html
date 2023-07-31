@@ -1,0 +1,70 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ChatBot</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" />
+    <link rel="stylesheet" href="style.css"> 
+    
+</head>
+<body>
+  <div class="wrapper">
+  <section class="chat-area">
+    <header>
+      <div class="back-icon"><i class="fas fa-arrow-left"></i></div>
+      <img src="images/emma watson.jpg" alt="" />
+      <div class="details">
+        <span>Emma Watson</span>
+        <p>Active now</p>
+      </div>
+    </header>
+    <div class="chat-box" id="chat-box">
+    <!--  <div class="chat incoming">-->
+    <!--    <img src="images/emma watson.jpg" alt="" />-->
+    <!--    <div class="details">-->
+    <!--      <p>Hi</p>-->
+    <!--    </div>-->
+    <!--  </div>-->
+    <!--  <div class="chat outgoing">-->
+    <!--    <div class="details">-->
+    <!--      <p>Hello</p>-->
+    <!--    </div>-->
+    <!--  </div>-->
+      <!-- <div class=""id="chat-area"></div> -->
+      
+    </div>
+
+    <div class="typing-area input-wrap">
+      <input type="text" class="incoming_id" name="incoming_id" value="1582320324" hidden="" />
+      <!-- <input type="text" name="message" class="input-field" placeholder="Type a message here..." autocomplete="off" /> -->
+      <input type="text" name="msg-box" id="msg-box" class="msg-box input-field" placeholder="Type a message here..." autocomplete="off" />
+      <!-- <button><i class="fas fa-arrow-right"></i></button> -->
+      <input type="submit" class="fas fa-arrow-right" id="send-btn" name="send">
+    </div>
+  </section>
+
+
+
+  </div> 
+  <!-- end wrap -->
+
+
+
+  <div class="container bubble-container" >
+    <!-- <div class=""id="chat-area"></div> -->
+
+    <!-- <div class="input-wrap"> -->
+      <!-- <input type="text" name="msg-box" id="msg-box" class="msg-box" placeholder="Say.."> -->
+      <!-- <input type="submit" value="SEND" class="btn btn-primary" id="send-btn" name="send"> -->
+    <!-- </div> -->
+  </div>
+
+       
+        
+  <script src="script.js"></script>
+</body>
+</html>

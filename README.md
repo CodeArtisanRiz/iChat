@@ -1,7 +1,7 @@
 # iChat - Chatbot powered by BrainShop API
 
-[![GitHub stars](https://img.shields.io/github/stars/xtremist96/iChat.svg?style=social&label=Star&maxAge=2592000)](https://github.com/xtremist96/iChat/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/xtremist96/iChat.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/xtremist96/iChat/fork)
+[![GitHub stars](https://img.shields.io/github/stars/CodeArtisanRiz/iChat.svg?style=social&label=Star&maxAge=2592000)](https://github.com/CodeArtisanRiz/iChat/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/CodeArtisanRiz/iChat.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/CodeArtisanRiz/iChat/fork)
 
 iChat is a chatbot project that utilizes the BrainShop API to provide intelligent and interactive responses to users. The BrainShop API is an AI-driven platform that allows developers to create conversational agents with natural language processing capabilities.
 
@@ -21,7 +21,7 @@ You can check out the live demo of the iChat chatbot [here](https://techno3gamma
 1. Clone the repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/xtremist96/iChat.git
+   git clone https://github.com/CodeArtisanRiz/iChat.git
    ```
 
 2. Open the `brain.php` file in the project's root directory.
@@ -34,7 +34,7 @@ You can check out the live demo of the iChat chatbot [here](https://techno3gamma
 
 ## Give it a Star!
 
-If you find this project helpful or interesting, please consider giving it a star on GitHub by clicking [here](https://github.com/xtremist96/iChat).
+If you find this project helpful or interesting, please consider giving it a star on GitHub by clicking [here](https://github.com/CodeArtisanRiz/iChat).
 
 ## Contributing
 

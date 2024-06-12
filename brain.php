@@ -5,8 +5,8 @@
 
     
 
-    $bid = "";
-    $apiKey = "";
+    $bid = "164893";
+    $apiKey = "KE63H7eh8Ql2zkmD";
     $url = "http://api.brainshop.ai/get?bid=".$bid."&key=".$apiKey."&uid=164893&msg=".$newKey."&format=json" ;
 
     $response = @file_get_contents($url);
